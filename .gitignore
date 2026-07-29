@@ -1,0 +1,11 @@
+# 正式图表、CSV 表格和 Markdown 报告需要上传 GitHub。
+# 仅忽略 MATLAB 临时数据和运行日志。
+results/**/*.mat
+results/**/*.log
+results/*.mat
+results/*.log
+*.asv
+*.autosave
+*.mlx.autosave
+Thumbs.db
+.DS_Store
