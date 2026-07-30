@@ -100,4 +100,4 @@ references/   算例来源与版本记录
 
 ## 当前状态
 
-详见 [`PROJECT_STATUS.md`](PROJECT_STATUS.md)。项目二的 M0–M6 已完成，实际结果、中文图表、项目报告、简历表述和面试问答位于 `results/` 与 `deliverables/` 目录。
+详见 [`PROJECT_STATUS.md`](PROJECT_STATUS.md)。项目二的 M0–M6 已完成，实际结果、中文图表、项目报告位于 `results/` 与 `deliverables/` 目录。
